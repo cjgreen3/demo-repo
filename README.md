@@ -1,2 +1,2 @@
 # Demo
-Some description of the project. 
+Some description of the project!
